@@ -1,2 +1,2 @@
-# My-portfolio
-This is m first ever portfolio, I used HTML, CSS, and JavaScript to build it
+# My-portfolio-website
+This is my first-ever portfolio website, it is an open-source website template made using HTML, CSS (Bootstrap), and JavaScript(React).
